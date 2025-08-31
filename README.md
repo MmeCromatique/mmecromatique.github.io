@@ -1,4 +1,3 @@
-# mmecromatique.github.io
-
+# La documentation de Blue Redemption
 
 Blue Docs
